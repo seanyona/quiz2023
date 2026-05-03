@@ -1,0 +1,10 @@
+OrderID,Product,Price,Status,Destination
+101,Banana,10,Shipped,Haifa
+102,Microwave,450,Pending,Tel Aviv
+103,Guitar,1200,Shipped,Eilat
+104,Banana,12,Delivered,Be'er Sheva
+105,Noise-Canceling Headphones,850,In Transit,Eilat
+106,Microwave,500,Shipped,Jerusalem
+107,Banana,15,Shipped,Tel Aviv
+108,Laptop,4500,Delivered,Haifa
+109,Microwave,480,In Transit,Ashdod

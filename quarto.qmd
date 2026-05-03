@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+```{r, setup, include=FALSE}
+# This tells Quarto to run all chunks from this specific folder
+knitr::opts_knit$set(root.dir = 'C:/Users/yonas/Desktop/year_2/semester_b/data and data/ANS1')
+```
+
+```{bash}
+mkdir -p ANS1
+```
+
+```{bash}
+rm -rf ShippingData.csv
+```
+
+```{bash}
+cut -d ',' -f 1-3 Dataframe1.csv
+```
+
+```{bash}
+head -n 6 Dataframe1.csv | tail -n 1 | cut -d ',' -f 2,3
+```
