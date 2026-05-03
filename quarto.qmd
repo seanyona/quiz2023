@@ -63,6 +63,5 @@ git branch -M main
 git push -u origin main
 ```
 
-```{bash}
-[My Github Repository](https://github.com/seanyona/quiz2023.git)
+```{[My Github Repository](https://github.com/seanyona/quiz2023.git)}
 ```
